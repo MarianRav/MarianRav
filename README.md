@@ -5,9 +5,9 @@ I'm a software developer with experience in Javascript. My background in psychol
 
 💻 I'm open to collaborate in proyects that have a social impact.
 
-👓 I love to learn new things! Currently I'm learning node and react.js 
+👓 I love to learn new things! Currently I'm learning node and react 
 
-🏢 I currently looking for a job oportunity 🙌 
+🏢 I'm currently looking for a job oportunity 🙌 
 
 📧 Contact me: marianv.dev@gmail.com
 
