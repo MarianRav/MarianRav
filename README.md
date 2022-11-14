@@ -9,12 +9,16 @@ I'm a software developer with experience in Javascript. My background in psychol
 
 🏢 I'm currently looking for a job oportunity 🙌 
 
+-------------------------------------------------------------------------------------
+👇 Feel free to check my latest proyects 👇
+  
+  🔹 [Grow](https://social-network-grow.web.app/wall)
+
+  🔸 [Rick & Morty DataLovers](https://marianrav.github.io/CDMX013-data-lovers/)
+
+  🔹 [Cipher](https://blindmessage-cipher-marian-lab-mex013.netlify.app/)
+
+-------------------------------------------------------------------------------------
+
 📧 Contact me: marianv.dev@gmail.com
 
-👇 Feel free to check my latest proyects 👇
-
-🔹 GROW - https://social-network-grow.web.app/wall
-
-🔸 Rick & Morty DataLovers - https://marianrav.github.io/CDMX013-data-lovers/
-
-🔹 Cipher - https://blindmessage-cipher-marian-lab-mex013.netlify.app/
