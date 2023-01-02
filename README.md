@@ -12,6 +12,8 @@ I'm a software developer with experience in Javascript. My background in psychol
 -------------------------------------------------------------------------------------
 👇 Feel free to check my latest proyects 👇
   
+  🔸 [BurguerQueen (Restaurant Order System)](https://marian-cdmx-013-burger-queen-api-client-gccq.vercel.app/)
+  
   🔹 [Grow](https://social-network-grow.web.app/wall)
 
   🔸 [Rick & Morty DataLovers](https://marianrav.github.io/CDMX013-data-lovers/)
