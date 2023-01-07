@@ -15,7 +15,7 @@ I'm a software developer with experience in Javascript. My background in psychol
   🔸 [BurguerQueen (Restaurant Order System)](https://marian-cdmx-013-burger-queen-api-client-gccq.vercel.app/) 
       
       👉 You can log in as waiter with: cercie.lannister@bq6.com 👈
-      👉 You can log in as litchen staff with: daenerys.targaryen@bq6.com 👈
+      👉 You can log in as kitchen staff with: daenerys.targaryen@bq6.com 👈
   
   🔹 [Grow](https://social-network-grow.web.app/wall)
 
