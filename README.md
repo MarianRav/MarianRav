@@ -5,9 +5,9 @@ I'm a software developer with experience in Javascript. My background in psychol
 
 💻 I'm open to collaborate in proyects that have a social impact.
 
-👓 I love to learn new things! Currently I'm learning node and react 
+👓 I love to learn new things! Currently I'm learning node and react ecosystem
 
-🏢 I'm currently looking for a job oportunity 🙌 
+🏢 I'm currently working in Grape.ag 🙌 🍇
 
 -------------------------------------------------------------------------------------
 👇 Feel free to check my latest proyects 👇
